@@ -1,0 +1,60 @@
+*{
+    /* To remove Extra padding and margin spaces */
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    /* This will align the text in the center of the row */
+    text-align: center;
+    /* This will make the line height same as the div height */
+    line-height: 150px;
+    /* This is why the Apni Kaksha Appears to be in the center of the header div */
+    height: 150px;
+    color: white;
+    background-color: #37c0a5;
+
+}
+
+nav{
+    text-align: center;
+    background-color: #242a30;
+    line-height: 40px;
+    height: 40px;
+}
+nav a{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+iframe{
+    margin: 10px;
+}
+section{ 
+    text-align: center;
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+    line-height: 60px;
+}
+h3{
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    background-color: #242a30;
+    line-height: 40px;
+    height: 40px;
+}
+footer a{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+h5{
+    margin: 30px;
+    line-height: 20px;
+}
