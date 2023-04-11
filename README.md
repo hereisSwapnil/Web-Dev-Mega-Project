@@ -22,8 +22,8 @@ https://swapnil-singh-99.github.io/Web-Dev-Mega-Project/
     
 ## Screenshots
 
-<p>
-    <img src="https://postimg.cc/LhVPK2Jp.png"/>
-    <img src="https://postimg.cc/LhVPK2Jp"/>
-    <img src="https://postimg.cc/14Y9NjTF"/>
-</p>
+[![image.png](https://i.postimg.cc/q7WQ5MSP/image.png)](https://postimg.cc/8FBhFD14)
+
+[![image.png](https://i.postimg.cc/fWc58sKP/image.png)](https://postimg.cc/PNqmqB0b)
+
+[![image.png](https://i.postimg.cc/fLx7q7xd/image.png)](https://postimg.cc/vgZ6cV28)
